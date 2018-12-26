@@ -1,7 +1,7 @@
-<h1 align="center">Video Editing Projects</h1>
+<h1 align="center">Video Editing Projects :computer: </h1>
 
 <div align="center">
-  :steam_locomotive::train::train::train::train::train:
+  :diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:
 </div>
 
 <br />

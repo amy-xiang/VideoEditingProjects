@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <i> A repository of all my previous video editing projects. </i>
+  <b> <i> A repository of all my previous video editing projects. </i> </b> :heart:
 </div>
 
 <br />

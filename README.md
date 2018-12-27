@@ -20,7 +20,12 @@ I'm Amy, a third year computing science student at the University of Alberta and
   <summary> <b>Click me to know more!</b> :yum: </summary>
 <br />
 
-I first got into video editing and animation back when I was around 12 years old. 
+I first got into video editing and animation around the time when I was 12 years old through discovering videos of animated sprites on YouTube. People would use these sprites (which I later found out to be MapleStory game sprites) to animate stories or create animated music videos. It wasn't long before I got hooked on these videos and decided to try my hand at making them. Since this was in 2009 and YouTube was in its early stages (along with this animation community being very niche), I had little to no resources to learn from when creating my videos - this lead me to try many different ways and animation softwares (mostly the free online ones) to get my videos to look the way I wanted them to. It was later on that I found out (through multiple phases of experimentation) that the people who made the good animations used either Sony Vegas or Adobe Flash - I chose to use Sony Vegas and have used it ever since. At first the learning curve for this new program was hard, but I was so intrigued by the idea of creating my own project and being able to make it however I wanted it to be, that I was able to overcome this learning curve. 5 years later, I was doing the same animations but on a whole other level with new friends that I've met along the way. Unfortunately with the changing YouTube climate and people moving on, the animation community got smaller and smaller, and soon I left as well. My love for creating animation projects and well edited videos didn't change however and I was able to use this skill in other places in my life. I wanted to share the last few videos that I created while I was in this community to hopefully share the good vibes and to encourage others to learn a new daunting skill because you will never know how much you will enjoy it. :relaxed:
+<br /> 
+
+
+[Vid 1](https://www.youtube.com/watch?v=MAp3hldvJAk)
+
 
 </details>
 
@@ -38,6 +43,28 @@ Otherwise, thanks for dropping by!
 <br />
 <br />
 
+### 2018 CAN-CWiC Video Montage
+<details> 
+  <summary> <i> Information </i> </summary>
+  <br />
+  
+| Date Published | Affiliation | Program(s) Used | Hours Used |
+| :---: | :---: | :---: | :---: |
+| 27 December, 2018 | [Ada's Team](http://adasteam.ca "Ada's Team Website") | Vegas Pro 11 | 5 | 
+
+<br />
+
+This video was created as a recap of the events that occurred at the 2018 [Canadian Celebration for Women in Computing](https://www.can-cwic.ca/ "CANCWiC Homepage") (CAN-CWiC) in Halifax, Nova Scotia. Ada's Team (a student group at the University of Alberta focused on promoting diversity) was able to fund 11 students to go to this conference and this video was used to showcase to the sponsors a little snippet of the event and what they were funding along with being a promotional video for students to attend next year. The video was accompanied by a presentation of the participants sharing their personal experiences on how attending the event impacted their lives. 
+
+</details>
+
+<br />
+
+[![CANCWiC Video](https://i.imgur.com/uIMoa6p.png)](https://youtu.be/3Sce-jHpqpQ "CANCWiC Video")
+
+<br />
+
+
 ### 2018 Grace Hopper Celebration Video Montage
 
 <details> 
@@ -50,7 +77,7 @@ Otherwise, thanks for dropping by!
 
 <br />
 
-This video was created as a recap of the events that occurred at the 2018 [Grace Hopper Celebration](https://ghc.anitab.org "GHC Homepage") conference in Houston, Texas. Ada's Team (a student group at the University of Alberta focused on promoting diversity) was able to fund 9 students to go to this conference and this video was used to showcase to the sponsors a little snippet of the event and what they were funding along with being a promotional video for students to attend next year. The video was accompanied by a presentation of the participants sharing their personal experineces on how attending the event impacted their lives. 
+This video was created as a recap of the events that occurred at the 2018 [Grace Hopper Celebration](https://ghc.anitab.org "GHC Homepage") conference in Houston, Texas. Ada's Team (a student group at the University of Alberta focused on promoting diversity) was able to fund 9 students to go to this conference and this video was used to showcase to the sponsors a little snippet of the event and what they were funding along with being a promotional video for students to attend next year. The video was accompanied by a presentation of the participants sharing their personal experiences on how attending the event impacted their lives. 
 
 </details>
 

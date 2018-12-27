@@ -14,12 +14,14 @@
 ## About
 
 Hello! <br />
-I'm Amy, a third year computing science student at the University of Alberta and this is a repository of all the previous video editing projects I've worked on in the past couple of years. I am completely self-taught and enjoy creating these projects either in my spare time or as volunteer opportunities. I mainly use Sony Vegas Pro for my video editing/animations and am currently learning Adobe After Effects. If I need custom assets for my videos, I usually create them through Photoshop, Audacity, Paint Tool Sai, Paint.net or use the talents of other people who are better versed in these areas than I am through the power of the internet. If you would like to know more about how I got into video editing and see my earlier projects, click on the drop down menu! 
+I'm Amy, a third year computing science student at the University of Alberta and this is a repository of all the previous video editing projects I've worked on in the past couple of years. I am completely self-taught and enjoy creating these projects either in my spare time or as volunteer opportunities. I mainly use Sony Vegas Pro for my video editing/animations and am currently learning Adobe After Effects. If I need custom assets for my videos, I usually create them through Photoshop, Audacity, Paint Tool Sai, Paint.net or use the talents of other people who are better versed in these areas than I am through the power of the internet. If you would like to know more about how I got into video editing and to see my earlier projects, click on the drop down menu! 
 
 <details>
   <summary> <b>Click me to know more!</b> :yum: </summary>
 <br />
-Hello.
+
+I first got into video editing and animation back when I was around 12 years old. 
+
 </details>
 
 <br />
@@ -42,7 +44,7 @@ Otherwise, thanks for dropping by!
   <summary> <i> Information </i> </summary>
   <br />
   
-| Date Published | Affiliation | Program(s) Used | Hours Needed |
+| Date Published | Affiliation | Program(s) Used | Hours Used |
 | :---: | :---: | :---: | :---: |
 | 4 Oct, 2018 | [Ada's Team](http://adasteam.ca "Ada's Team Website") | Vegas Pro 11 | 10 | 
 
@@ -64,9 +66,9 @@ This video was created as a recap of the events that occurred at the 2018 [Grace
   <summary> <i> Information </i> </summary>
   <br />
   
-| Date Published | Affiliation | Program(s) Used | Hours Needed |
+| Date Published | Affiliation | Program(s) Used | Hours Used |
 | :---: | :---: | :---: | :---: |
-| 26 Oct, 2017 | [PSI](http://www.publicscienceinstitute.org) | Vegas Pro 11 | 20 | 
+| 26 Oct, 2017 | [PSI](http://www.publicscienceinstitute.org) | Vegas Pro 11, Paint.net | 20 | 
 
 <br />
 
@@ -77,5 +79,29 @@ This video was created as an introductory video for the Public Science Institute
 <br />
 
 [![PSI Intro Video](https://i.imgur.com/0PbO9fQ.png)](https://www.youtube.com/watch?v=qgdc-EEoGFo "PSI Intro Video")
+
+<br />
+
+### Vaccinations Educational Video
+
+<details> 
+  <summary> <i> Information </i> </summary>
+  <br />
+  
+| Date Published | Affiliation | Program(s) Used | Hours Used |
+| :---: | :---: | :---: | :---: |
+| 11 May, 2017 | [PSI](http://www.publicscienceinstitute.org) | After Effects 6, Vegas Pro 11, Photoshop, Paint.net | 150 | 
+
+<br />
+
+This video was created as an educational narrative about the science behind vaccinations geared towards a younger audience. The purpose of the video is to educate kids about how vaccinations work from a scientific point of view whilst also providing tips on how to overcome the fear of needles.    
+
+</details>
+
+<br />
+
+
+[![Vaccinations](https://i.imgur.com/jRBOQlG.png)](https://www.youtube.com/watch?v=PfaldCIEQw0 "Vaccinations")
+
 
 

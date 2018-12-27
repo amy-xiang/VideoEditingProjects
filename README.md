@@ -1,6 +1,4 @@
-<center>
-  # Video Editing Projects :computer: 
-</center>
+<h1 align = "center"> Video Editing Projects :computer: </h1> 
 
 <div align="center">
   :diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside::diamond_shape_with_a_dot_inside:
@@ -32,7 +30,7 @@ Otherwise, thanks for dropping by!
 <br />
 
 <div align = "center">
-  :arrow_down::arrow_down::arrow_down::arrow_down::arrow_down::arrow_down::arrow_down::arrow_down::arrow_down::arrow_down:
+  :arrow_down::arrow_down::arrow_down:
 </div> 
 
 <br />
@@ -43,6 +41,18 @@ Otherwise, thanks for dropping by!
 <details> 
   <summary> <i> Information </i> </summary>
   <br />
+  
+<center>
+
+| Date Published | Affiliation | Program(s) Used | Hours Needed |
+| :---: | :---: | :---: | :---: |
+| 4 Oct, 2018 | Ada's Team | Vegas Pro 11 | 10 | 
+
+</center>
+<br />
+
+This video was created as a recap of the events that occurred at the 2018 [Grace Hopper Celebration](https://ghc.anitab.org "GHC Homepage") conference in Houston, Texas. Ada's Team (a student group at the University of Alberta focused on promoting diversity) was able to fund 9 students to go to this conference and this video was used to showcase to the sponsors a little snippet of the event and what they were funding along with being a promotional video for students to attend next year. The video was accompanied by a presentation of the participants sharing their personal experineces on how attending the event impacted their lives. 
+
 </details>
 
 <br />

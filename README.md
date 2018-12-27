@@ -56,8 +56,7 @@ This video was created as a recap of the events that occurred at the 2018 [Grace
 
 [![GHC Video](https://i.imgur.com/6DIHJrP.png)](https://www.youtube.com/watch?v=ciyMuBmTeGY "GHC Video")
 
-<br />
-<br />
+---
 
 ### Public Science Institute Introduction Video
 
@@ -75,7 +74,10 @@ This video was created as an introductory video for the Public Science Institute
 
 </details>
 
+<br />
 
 [![PSI Intro Video](https://i.imgur.com/0PbO9fQ.png)](https://www.youtube.com/watch?v=qgdc-EEoGFo "PSI Intro Video")
+
+---
 
 

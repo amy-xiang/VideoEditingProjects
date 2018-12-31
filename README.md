@@ -20,11 +20,24 @@ I'm Amy, a third year computing science student at the University of Alberta and
   <summary> <b>Click me to know more!</b> :yum: </summary>
 <br />
 
-I first got into video editing and animation around the time when I was 12 years old through discovering videos of animated sprites on YouTube. People would use these sprites (which I later found out to be MapleStory game sprites) to animate stories or create animated music videos. It wasn't long before I got hooked on these videos and decided to try my hand at making them. Since this was in 2009 and YouTube was in its early stages (along with this animation community being very niche), I had little to no resources to learn from when creating my videos - this lead me to try many different ways and animation softwares (mostly the free online ones) to get my videos to look the way I wanted them to. It was later on that I found out (through multiple phases of experimentation) that the people who made the good animations used either Sony Vegas or Adobe Flash - I chose to use Sony Vegas and have used it ever since. At first the learning curve for this new program was hard, but I was so intrigued by the idea of creating my own project and being able to make it however I wanted it to be, that I was able to overcome this learning curve. 5 years later, I was doing the same animations but on a whole other level with new friends that I've met along the way. Unfortunately with the changing YouTube climate and people moving on, the animation community got smaller and smaller, and soon I left as well. My love for creating animation projects and well edited videos didn't change however and I was able to use this skill in other places in my life. I wanted to share the last few videos that I created while I was in this community to hopefully share the good vibes and to encourage others to learn a new daunting skill because you will never know how much you will enjoy it. :relaxed:
+I first got into video editing and animation around the time when I was 12 years old through discovering videos of animated sprites on YouTube. People would use these sprites (which I later found out to be MapleStory game sprites) to animate stories or create animated music videos. It wasn't long before I got hooked on these videos and decided to try my hand at making them. Since this was in 2009 and YouTube was in its early stages (along with this animation community being very niche), I had little to no resources to learn from when creating my videos - this lead me to try many different ways and animation softwares (mostly the free online ones) to get my videos to look the way I wanted them to. It was later on that I found out (through multiple phases of experimentation) that the people who made the good animations used either Sony Vegas or Adobe Flash - I chose to use Sony Vegas and have used it ever since. Over time, I was able to improve my animation skills by meeting new friends in the community whom shared their knowledge and inspired me to push myself even further. 5 years later, I was doing the same animations but on a whole other level. 
+
+Unfortunately with the changing YouTube climate and people moving on, the animation community got smaller and smaller, and soon I left as well. My love for creating animation projects and well edited videos didn't change however and I was able to use these skills in other areas of my life. I wanted to share the last few videos that I created while I was in this community to hopefully share the good vibes and to encourage others to learn a new daunting skill because you will never know how much you will enjoy it. :relaxed:
 <br /> 
 
+<b> P.S. </b> Also keep in mind that I was 12-16 when I made these videos <s> so they might be a little cringy. </s>
+<br /> 
+<br /> 
 
-[Vid 1](https://www.youtube.com/watch?v=MAp3hldvJAk)
+### Early Videos
+
+><b>Special Note: </b> Since animations like these took a lot of effort and a long time to make, they are typically very short. To combat how short the content is, I joined a coalition of other animators (called NeotericStudios) to create longer videos by dividing the content into individual parts that would be joined together at the end. While I was a part of this coalition, I also did some freelance animation parts on the side offered by other creators.   
+
+>In the selection of videos below, I have sprinkled my own animations along with collaboration animations I was a part of (my handle is iSilverRays, so look for my handle in the collaboration video descriptions to get the part that I animated). Hope you enjoy! 
+
+<br /> 
+
+[Please](https://www.youtube.com/watch?v=MAp3hldvJAk), [don't](https://www.youtube.com/watch?v=bSMrAYE7_Ro), [judge](https://www.youtube.com/watch?v=WU6I5WhhDgY), [me](https://www.youtube.com/watch?v=rtPnHzhWVY8)!
 
 
 </details>

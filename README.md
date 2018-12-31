@@ -37,7 +37,7 @@ Unfortunately with the changing YouTube climate and people moving on, the animat
 
 <br /> 
 
-[Please](https://www.youtube.com/watch?v=MAp3hldvJAk), [don't](https://www.youtube.com/watch?v=bSMrAYE7_Ro), [judge](https://www.youtube.com/watch?v=rtPnHzhWVY8), [me](https://www.youtube.com/watch?v=WU6I5WhhDgY), [too](https://www.youtube.com/watch?v=bFz6a_mBowk), [harshly](https://www.youtube.com/watch?v=ZMQYqZJGXgA)!
+[Please](https://www.youtube.com/watch?v=MAp3hldvJAk), [don't](https://www.youtube.com/watch?v=bSMrAYE7_Ro), [judge](https://www.youtube.com/watch?v=rtPnHzhWVY8), [me](https://www.youtube.com/watch?v=WU6I5WhhDgY)! [Thank](https://www.youtube.com/watch?v=bFz6a_mBowk), [you](https://www.youtube.com/watch?v=ZMQYqZJGXgA)!
 
 
 </details>
